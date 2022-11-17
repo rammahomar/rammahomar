@@ -4,4 +4,4 @@
 
 I am Self taught web developer
 
-🗃️ Working on multiple frontend projects using javaScript
+◽ 🗃️ Working on multiple frontend projects using javaScript
