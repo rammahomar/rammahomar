@@ -4,4 +4,5 @@
 
 I am Self taught web developer
 
-◽ 🗃️ Working on multiple frontend projects using javaScript
+◽ A passionate frontend developer from Sudan
+◽ 🗃️ Working on multiple frontend projects using  html css javaScript
